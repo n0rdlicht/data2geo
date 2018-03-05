@@ -1,0 +1,14 @@
+[
+{"ListenID":1,"Partei-kurz":"SP","Partei-lang":"SP - Sozialdemokratische Partei","Spektrum":-1},
+{"ListenID":2,"Partei-kurz":"SVP","Partei-lang":"Schweizerische Volkspartei - SVP","Spektrum":1},
+{"ListenID":3,"Partei-kurz":"FDP","Partei-lang":"FDP.Die Liberalen","Spektrum":1},
+{"ListenID":4,"Partei-kurz":"Grüne","Partei-lang":"Grüne","Spektrum":-1},
+{"ListenID":5,"Partei-kurz":"glp","Partei-lang":"glp - Grünliberale Partei","Spektrum":0},
+{"ListenID":6,"Partei-kurz":"AL","Partei-lang":"AL - Alternative Liste","Spektrum":-1},
+{"ListenID":7,"Partei-kurz":"CVP","Partei-lang":"CVP - Christlichdemokratische Volkspartei","Spektrum":1},
+{"ListenID":8,"Partei-kurz":"DU","Partei-lang":"DU - Der Unabhängige","Spektrum":""},
+{"ListenID":9,"Partei-kurz":"EDU","Partei-lang":"Eidgenössisch-Demokratische Union (EDU)","Spektrum":1},
+{"ListenID":10,"Partei-kurz":"Vernunft","Partei-lang":"Vernunftliste","Spektrum":""},
+{"ListenID":11,"Partei-kurz":"PdA","Partei-lang":"Partei der Arbeit (PdA)","Spektrum":-1},
+{"ListenID":12,"Partei-kurz":"EVP/BDP","Partei-lang":"EVP/BDP, Evangelische Volkspartei und Bürgerlich-Demokratische Partei","Spektrum":1}
+]

@@ -1,0 +1,102 @@
+﻿KreisID;ListenID;Listenbezeichnung;Kandidatenstimmen;Zusatzstimmen;Parteistimmen;Stimmenanteil in %
+1;1;SP - Sozialdemokratische Partei;37 080;280;37 360;30,83
+1;2;Schweizerische Volkspartei - SVP;15 622;234;15 856;13,08
+1;3;FDP.Die Liberalen;23 238;752;23 990;19,8
+1;4;Grüne;14 934;73;15 007;12,38
+1;5;glp - Grünliberale Partei;12 315;236;12 551;10,36
+1;6;AL - Alternative Liste;7 605;63;7 668;6,33
+1;7;CVP - Christlichdemokratische Volkspartei;5 123;92;5 215;4,3
+1;8;DU - Der Unabhängige;192;253;445;0,37
+1;9;Eidgenössisch-Demokratische Union (EDU);220;312;532;0,44
+1;11;Partei der Arbeit (PdA);644;79;723;0,6
+1;12;EVP/BDP, Evangelische Volkspartei und Bürgerlich-Demokratische Partei;1 584;257;1 841;1,52
+3;12;EVP/BDP, Evangelische Volkspartei und Bürgerlich-Demokratische Partei;1 584;257;1 841;1,52
+3;2;Schweizerische Volkspartei - SVP;19 141;199;19 340;10,31
+3;3;FDP.Die Liberalen;20 258;271;20 529;10,94
+3;4;Grüne;26 363;108;26 471;14,11
+3;5;glp - Grünliberale Partei;19 315;258;19 573;10,43
+3;6;AL - Alternative Liste;22 567;125;22 692;12,1
+3;7;CVP - Christlichdemokratische Volkspartei;5 972;90;6 062;3,23
+3;9;Eidgenössisch-Demokratische Union (EDU);427;327;754;0,4
+3;11;Partei der Arbeit (PdA);1 978;108;2 086;1,11
+3;12;EVP/BDP, Evangelische Volkspartei und Bürgerlich-Demokratische Partei;2 907;32;2 939;1,57
+4;1;SP - Sozialdemokratische Partei;48 791;421;49 212;36,26
+4;2;Schweizerische Volkspartei - SVP;8 234;105;8 339;6,14
+4;3;FDP.Die Liberalen;13 715;129;13 844;10,2
+4;4;Grüne;19 292;96;19 388;14,29
+4;5;glp - Grünliberale Partei;16 237;205;16 442;12,11
+4;6;AL - Alternative Liste;22 035;101;22 136;16,31
+4;7;CVP - Christlichdemokratische Volkspartei;2 417;39;2 456;1,81
+4;9;Eidgenössisch-Demokratische Union (EDU);168;127;295;0,22
+4;11;Partei der Arbeit (PdA);2 409;47;2 456;1,81
+4;12;EVP/BDP, Evangelische Volkspartei und Bürgerlich-Demokratische Partei;1 095;57;1 152;0,85
+6;1;SP - Sozialdemokratische Partei;34 138;158;34 296;34,9
+6;2;Schweizerische Volkspartei - SVP;8 897;77;8 974;9,13
+6;3;FDP.Die Liberalen;16 734;123;16 857;17,15
+6;4;Grüne;12 505;66;12 571;12,79
+6;5;glp - Grünliberale Partei;11 525;88;11 613;11,82
+6;6;AL - Alternative Liste;7 571;41;7 612;7,75
+6;7;CVP - Christlichdemokratische Volkspartei;3 116;59;3 175;3,23
+6;9;Eidgenössisch-Demokratische Union (EDU);118;109;227;0,23
+6;11;Partei der Arbeit (PdA);734;120;854;0,87
+6;12;EVP/BDP, Evangelische Volkspartei und Bürgerlich-Demokratische Partei;2 092;9;2 101;2,14
+7;1;SP - Sozialdemokratische Partei;70 705;459;71 164;27,35
+7;2;Schweizerische Volkspartei - SVP;27 688;362;28 050;10,78
+7;3;FDP.Die Liberalen;68 613;923;69 536;26,72
+7;4;Grüne;31 195;247;31 442;12,08
+7;5;glp - Grünliberale Partei;28 040;374;28 414;10,92
+7;6;AL - Alternative Liste;13 602;57;13 659;5,25
+7;7;CVP - Christlichdemokratische Volkspartei;11 353;226;11 579;4,45
+7;9;Eidgenössisch-Demokratische Union (EDU);257;484;741;0,28
+7;12;EVP/BDP, Evangelische Volkspartei und Bürgerlich-Demokratische Partei;5 591;64;5 655;2,17
+9;1;SP - Sozialdemokratische Partei;59 413;650;60 063;31,85
+9;2;Schweizerische Volkspartei - SVP;33 247;536;33 783;17,91
+9;3;FDP.Die Liberalen;25 236;1 476;26 712;14,16
+9;4;Grüne;20 153;143;20 296;10,76
+9;5;glp - Grünliberale Partei;16 210;278;16 488;8,74
+9;6;AL - Alternative Liste;10 104;60;10 164;5,39
+9;7;CVP - Christlichdemokratische Volkspartei;9 031;109;9 140;4,85
+9;9;Eidgenössisch-Demokratische Union (EDU);399;504;903;0,48
+9;10;Vernunftliste;108;295;403;0,21
+9;11;Partei der Arbeit (PdA);719;160;879;0,47
+9;12;EVP/BDP, Evangelische Volkspartei und Bürgerlich-Demokratische Partei;9 640;137;9 777;5,18
+10;1;SP - Sozialdemokratische Partei;51 938;293;52 231;36,15
+10;2;Schweizerische Volkspartei - SVP;17 555;234;17 789;12,31
+10;3;FDP.Die Liberalen;22 838;260;23 098;15,99
+10;4;Grüne;15 406;128;15 534;10,75
+10;5;glp - Grünliberale Partei;14 528;102;14 630;10,13
+10;6;AL - Alternative Liste;11 969;85;12 054;8,34
+10;7;CVP - Christlichdemokratische Volkspartei;4 013;81;4 094;2,83
+10;9;Eidgenössisch-Demokratische Union (EDU);171;232;403;0,28
+10;11;Partei der Arbeit (PdA);1 104;157;1 261;0,87
+10;12;EVP/BDP, Evangelische Volkspartei und Bürgerlich-Demokratische Partei;3 335;39;3 374;2,34
+11;1;SP - Sozialdemokratische Partei;88 447;1 030;89 477;31,17
+11;2;Schweizerische Volkspartei - SVP;54 502;658;55 160;19,22
+11;3;FDP.Die Liberalen;39 554;640;40 194;14
+11;4;Grüne;28 550;163;28 713;10
+11;5;glp - Grünliberale Partei;31 651;260;31 911;11,12
+11;6;AL - Alternative Liste;12 301;134;12 435;4,33
+11;7;CVP - Christlichdemokratische Volkspartei;11 080;96;11 176;3,89
+11;9;Eidgenössisch-Demokratische Union (EDU);855;1 694;2 549;0,89
+11;11;Partei der Arbeit (PdA);1 265;253;1 518;0,53
+11;12;EVP/BDP, Evangelische Volkspartei und Bürgerlich-Demokratische Partei;13 766;135;13 901;4,84
+12;1;SP - Sozialdemokratische Partei;13 104;88;13 192;32,57
+12;2;Schweizerische Volkspartei - SVP;8 871;109;8 980;22,17
+12;3;FDP.Die Liberalen;3 751;75;3 826;9,44
+12;4;Grüne;4 178;13;4 191;10,35
+12;5;glp - Grünliberale Partei;2 909;22;2 931;7,24
+12;6;AL - Alternative Liste;1 943;11;1 954;4,82
+12;7;CVP - Christlichdemokratische Volkspartei;1 778;43;1 821;4,5
+12;9;Eidgenössisch-Demokratische Union (EDU);557;8;565;1,39
+12;11;Partei der Arbeit (PdA);445;36;481;1,19
+12;12;EVP/BDP, Evangelische Volkspartei und Bürgerlich-Demokratische Partei;2 550;18;2 568;6,34
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
